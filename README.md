@@ -1,6 +1,22 @@
-# Next.js + Tailwind CSS Example
+# Find something to do when you are bored
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# explaining the project. ✅
+# get the email from the form. ✅
+# env variables | magic secret | signup to magic ✅
+# getting magic token from magic client ✅
+# login api call ✅
+# API ✅
+# token cookie ✅
+# user hook ✅
+# redirect to looggedin page ✅
+# logout ✅
+# profile page✅
+
+##ENV
+
+MAGIC_SECRET_KEY
+TOKEN_SECRET
+NEXT_PUBLIC_MAGIC_PUBLISHABLE_KEY.
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
